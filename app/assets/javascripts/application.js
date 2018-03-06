@@ -11,5 +11,11 @@
 // about supported directives.
 //
 //= require rails-ujs
+//= require jquery
+//= require jquery_ujs
+//= require react_ujs
 //= require turbolinks
+//
 //= require_tree .
+//
+//= require hyperloop-loader
